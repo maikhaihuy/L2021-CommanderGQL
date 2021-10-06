@@ -44,7 +44,7 @@
           "dependencies": {
             "GraphQL.Server.Ui.Voyager": {
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[4.4.1, )"
             },
             "HotChocolate.AspNetCore": {
               "target": "Package",

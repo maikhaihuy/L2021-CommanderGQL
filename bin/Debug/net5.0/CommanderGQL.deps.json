@@ -33,7 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "CommanderGQL/1.0.0": {
         "dependencies": {
-          "GraphQL.Server.Ui.Voyager": "5.0.2",
+          "GraphQL.Server.Ui.Voyager": "4.4.1",
           "HotChocolate.AspNetCore": "12.0.1",
           "HotChocolate.Data.EntityFramework": "12.0.1",
           "Microsoft.EntityFrameworkCore.Design": "5.0.10",
@@ -327,15 +327,15 @@
           "CommanderGQL.dll": {}
         }
       },
-      "GraphQL.Server.Ui.Voyager/5.0.2": {
+      "GraphQL.Server.Ui.Voyager/4.4.1": {
         "runtime": {
-          "lib/net5.0/GraphQL.Server.Ui.Voyager.dll": {
-            "assemblyVersion": "5.0.2.0",
-            "fileVersion": "5.0.2.0"
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.dll": {
+            "assemblyVersion": "4.4.1.0",
+            "fileVersion": "4.4.1.0"
           }
         },
         "compile": {
-          "lib/net5.0/GraphQL.Server.Ui.Voyager.dll": {}
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.dll": {}
         }
       },
       "GreenDonut/12.0.1": {
@@ -3290,12 +3290,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "GraphQL.Server.Ui.Voyager/5.0.2": {
+    "GraphQL.Server.Ui.Voyager/4.4.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CPkfJrVo5JEdrDvG6BNTSMcbIHz/GKCOiDJfAzqGbME/bHSReuJ6vHyEbbwmcPeUJVrVMpz3enWAkpNbPYpdgg==",
-      "path": "graphql.server.ui.voyager/5.0.2",
-      "hashPath": "graphql.server.ui.voyager.5.0.2.nupkg.sha512"
+      "sha512": "sha512-zYQoqmtA1Py4bRUdOH/afSsgU5iMsGAZ/vDRbh3ullkt3WcktUFZ3U1yTLqWhvQU2/psxj4ZmGhwd+GOKpf38g==",
+      "path": "graphql.server.ui.voyager/4.4.1",
+      "hashPath": "graphql.server.ui.voyager.4.4.1.nupkg.sha512"
     },
     "GreenDonut/12.0.1": {
       "type": "package",

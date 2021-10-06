@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QCWQD6Gcx8AwVY267qqV87sQeTNpyh/kjaIbVXjlGM7u0oxX9N97YnAFE7u10aMHlmEqmUe9lwAq+NM+uOgIEA==",
+  "dgSpecHash": "qvsHM6butzyu45VTuWaiAPCjvFIQxm8ps1eg2upyZZ5gZ5244aqBoOuBMZ1B37dZWpOjKuJEmZgsKCW1p/9K4w==",
   "success": true,
   "projectFilePath": "/Users/huymk/Code/pet/L2021/CommanderGQL/CommanderGQL.csproj",
   "expectedPackageFiles": [
-    "/Users/huymk/.nuget/packages/graphql.server.ui.voyager/5.0.2/graphql.server.ui.voyager.5.0.2.nupkg.sha512",
+    "/Users/huymk/.nuget/packages/graphql.server.ui.voyager/4.4.1/graphql.server.ui.voyager.4.4.1.nupkg.sha512",
     "/Users/huymk/.nuget/packages/greendonut/12.0.1/greendonut.12.0.1.nupkg.sha512",
     "/Users/huymk/.nuget/packages/hotchocolate/12.0.1/hotchocolate.12.0.1.nupkg.sha512",
     "/Users/huymk/.nuget/packages/hotchocolate.abstractions/12.0.1/hotchocolate.abstractions.12.0.1.nupkg.sha512",

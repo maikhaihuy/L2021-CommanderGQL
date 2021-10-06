@@ -2,13 +2,13 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "GraphQL.Server.Ui.Voyager/5.0.2": {
+      "GraphQL.Server.Ui.Voyager/4.4.1": {
         "type": "package",
         "compile": {
-          "lib/net5.0/GraphQL.Server.Ui.Voyager.dll": {}
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.dll": {}
         },
         "runtime": {
-          "lib/net5.0/GraphQL.Server.Ui.Voyager.dll": {}
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -1755,20 +1755,21 @@
     }
   },
   "libraries": {
-    "GraphQL.Server.Ui.Voyager/5.0.2": {
-      "sha512": "CPkfJrVo5JEdrDvG6BNTSMcbIHz/GKCOiDJfAzqGbME/bHSReuJ6vHyEbbwmcPeUJVrVMpz3enWAkpNbPYpdgg==",
+    "GraphQL.Server.Ui.Voyager/4.4.1": {
+      "sha512": "zYQoqmtA1Py4bRUdOH/afSsgU5iMsGAZ/vDRbh3ullkt3WcktUFZ3U1yTLqWhvQU2/psxj4ZmGhwd+GOKpf38g==",
       "type": "package",
-      "path": "graphql.server.ui.voyager/5.0.2",
+      "path": "graphql.server.ui.voyager/4.4.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "graphql.server.ui.voyager.5.0.2.nupkg.sha512",
+        "graphql.server.ui.voyager.4.4.1.nupkg.sha512",
         "graphql.server.ui.voyager.nuspec",
-        "lib/net5.0/GraphQL.Server.Ui.Voyager.dll",
-        "lib/net5.0/GraphQL.Server.Ui.Voyager.xml",
+        "lib/netcoreapp3.0/GraphQL.Server.Ui.Voyager.dll",
+        "lib/netcoreapp3.0/GraphQL.Server.Ui.Voyager.xml",
         "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.dll",
         "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.xml",
-        "logo.64x64.png"
+        "lib/netstandard2.0/GraphQL.Server.Ui.Voyager.dll",
+        "lib/netstandard2.0/GraphQL.Server.Ui.Voyager.xml"
       ]
     },
     "GreenDonut/12.0.1": {
@@ -6165,7 +6166,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "GraphQL.Server.Ui.Voyager >= 5.0.2",
+      "GraphQL.Server.Ui.Voyager >= 4.4.1",
       "HotChocolate.AspNetCore >= 12.0.1",
       "HotChocolate.Data.EntityFramework >= 12.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.10",
@@ -6216,7 +6217,7 @@
         "dependencies": {
           "GraphQL.Server.Ui.Voyager": {
             "target": "Package",
-            "version": "[5.0.2, )"
+            "version": "[4.4.1, )"
           },
           "HotChocolate.AspNetCore": {
             "target": "Package",
